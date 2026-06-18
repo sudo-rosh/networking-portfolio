@@ -1,43 +1,71 @@
-# DFIR Portfolio
+# Networking Portfolio
 
-A 60-day intensive, practical training program in Digital Forensics and Incident Response.
-Every folder in this repository represents real investigative work — no theory dumps, no
-course certificates. Hands-on analysis, documented findings, and investigation reports.
+A hands-on networking portfolio documenting my journey from networking fundamentals to practical network design, troubleshooting, and security-focused networking. Every folder in this repository contains real labs, Packet Tracer projects, network diagrams, configurations, troubleshooting exercises, and lessons learned while building a strong foundation for cybersecurity, SOC, and DFIR roles.
 
-## Focus areas
+## Focus Areas
 
-- Windows disk forensics (MFT, Prefetch, Registry, Event Logs, LNK, Shellbags)
-- Memory forensics (Volatility 3 — process injection, credential dumping, C2 detection)
-- Log analysis and SIEM (Splunk SPL, ELK, Sysmon, Sigma rules)
-- Malware triage (static and dynamic analysis, IOC extraction, YARA rules)
-- Network forensics (PCAP analysis, C2 identification, Wireshark, Zeek)
-- Linux forensics and basic cloud forensics (AWS CloudTrail)
-- Full incident response simulations mapped to MITRE ATT&CK
+* Network fundamentals (OSI Model, TCP/IP, DNS, DHCP, NAT, ARP)
+* IP addressing and subnetting
+* Ethernet and switching concepts
+* Routing fundamentals
+* Wireless networking
+* Home and small office network design
+* Network troubleshooting and diagnostics
+* Packet analysis with Wireshark
+* Network security fundamentals
+* Security monitoring and traffic analysis
+* Practical networking for SOC and DFIR careers
 
-## Tools used
+## Tools Used
 
-Eric Zimmerman Tools · Volatility 3 · FTK Imager · Splunk · Autopsy ·
-Wireshark · PEStudio · REMnux · FlareVM · CyberChef · MITRE ATT&CK Navigator
+Cisco Packet Tracer · Wireshark · Nmap · Draw.io · Windows Networking Tools · Linux Networking Utilities · Python (future) · pfSense (future) · GNS3 (future)
 
-## Progress log
+## Progress Log
 
-| Day | Topic | Tools | Output |
-|-----|-------|-------|--------|
-| 01  | Lab setup · Prefetch, Registry, LNK artifact analysis · Memory acquisition | PECmd · LECmd · Registry Explorer · FTK Imager | [Day 01](./Day01/) |
+| Day | Topic                                            | Tools                    | Output           |
+| --- | ------------------------------------------------ | ------------------------ | ---------------- |
+| 01  | Packet Tracer Fundamentals & Home Network Design | Cisco Packet Tracer      | Home Network Lab |
+| 02  | Network Fundamentals & OSI Model                 | Cisco Networking Academy | Notes & Labs     |
+| 03  | IP Addressing & DHCP                             | Packet Tracer            | DHCP Lab         |
+| 04  | Routing & Default Gateway Concepts               | Packet Tracer            | Routing Lab      |
 
-## Investigation reports
+## Project Reports
 
-*Published as investigations are completed. Each report includes: executive summary,
-artifact timeline, MITRE ATT&CK mapping, IOC table, and recommendations.*
+Each project includes:
 
-| # | Case | Type | Report |
-|---|------|------|--------|
-| — | In progress | — | — |
+* Network topology diagram
+* Configuration screenshots
+* Device descriptions
+* Connectivity testing
+* Troubleshooting process
+* Lessons learned
+* Security observations
 
-## Platforms and challenge sources
+| #  | Project                           | Category             | Status    |
+| -- | --------------------------------- | -------------------- | --------- |
+| 01 | Home Network Recreation           | Network Fundamentals | Completed |
+| 02 | Small Office Network Design       | Network Design       | Planned   |
+| 03 | DHCP & IP Addressing Lab          | Network Services     | Planned   |
+| 04 | Network Troubleshooting Scenarios | Troubleshooting      | Planned   |
+| 05 | Wireshark Traffic Analysis Lab    | Packet Analysis      | Planned   |
 
-CyberDefenders · Blue Team Labs Online · TryHackMe · MemLabs · Malware-Traffic-Analysis.net · Splunk BOTS
+## Learning Platforms
+
+Cisco Networking Academy · Cisco Packet Tracer Labs · Practical Networking · TryHackMe · Wireshark Labs · Microsoft Learn
+
+## Current Goal
+
+Build a strong networking foundation that supports future learning in:
+
+* SOC Operations
+* Security Monitoring
+* Incident Response
+* Threat Hunting
+* Digital Forensics
+* Blue Team Operations
 
 ## Contact
 
-[LinkedIn (https://www.linkedin.com/in/roshini-john)] · [Email (roshini.john02@gmail.com]
+LinkedIn: linkedin.com/in/roshini-john
+
+Email: [roshini.john02@gmail.com](mailto:roshini.john02@gmail.com)
