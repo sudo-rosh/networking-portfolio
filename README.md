@@ -43,7 +43,7 @@ Each project includes:
 
 | #  | Project                           | Category             | Status    |
 | -- | --------------------------------- | -------------------- | --------- |
-| 01 | Home Network Recreation           | Network Fundamentals | Completed |
+| 01 | [Home Network Recreation](01-home-network-lab)           | Network Fundamentals | Completed |
 | 02 | Small Office Network Design       | Network Design       | Planned   |
 | 03 | DHCP & IP Addressing Lab          | Network Services     | Planned   |
 | 04 | Network Troubleshooting Scenarios | Troubleshooting      | Planned   |
